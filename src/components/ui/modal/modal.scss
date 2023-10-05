@@ -1,0 +1,23 @@
+.modal {
+  position: fixed;
+  background-color: grey;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal_content {
+  padding: 20px;
+  background-color: green ;
+}
+
+
+.closebtn{
+  padding: 10px;
+  background-color: transparent;
+  border: 2px solid red;
+}

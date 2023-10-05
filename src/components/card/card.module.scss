@@ -1,0 +1,38 @@
+.wrapper {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+
+  h2 {
+    background-color: blue;
+  }
+}
+
+.content {
+  margin-top: 20px;
+  margin-left: 900px;
+}
+
+.title {
+  color: white;
+}
+
+.text {
+  color: white;
+}
+
+.deletbtn {
+  background-color: white;
+  color: red;
+  border: 2px solid red;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.editbtn {
+  background-color: white;
+  color: blue;
+  border: 2px solid blue;
+  padding: 10px;
+  margin-right: 10px;
+}
